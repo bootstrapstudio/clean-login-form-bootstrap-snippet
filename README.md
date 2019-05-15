@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Clean login form snippet** made with Bootstrap 4. It consists of super simple layout containing only email and password inputs, plus a submit button. The clean markup and CSS styles make it very easy to customize the form and add more form fields as needed. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/login-form-clean)
+**Clean login form snippet** made with Bootstrap 4. It consists of super simple layout containing only email and password inputs, plus a submit button. The clean markup and CSS styles make it very easy to customize the form and add more form fields as needed. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Clean Login Form](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/login-form-clean) 
+[![Clean Login Form](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
